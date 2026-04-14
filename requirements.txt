@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+mutagen
+flask
+yt-dlp
